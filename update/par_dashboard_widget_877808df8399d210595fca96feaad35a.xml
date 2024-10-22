@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">0f7808df8399d210595fca96feaad347</canvas>
+        <component display_value="Semi donut">3809c6583b8dd540a0bf735ed493bae2</component>
+        <component_props>{"selectedElements":[],"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":true,"allowTotalValue":true,"indicatorType":"1","isScriptedIndicator":false,"label":"NeedIt: Active Weekly","sourceType":"indicator","uuid":{"indicator":"28bed44f83959210595fca96feaad3c6","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yMjhiZWQ0NGY4Mzk1OTIxMDU5NWZjYTk2ZmVhYWQzYzYxNzI5NTgwMDMxOTY2","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"contextMenuActions":[],"headerTitle":"NeedIt Requests Active this Month by Priority","headingLevel":2,"description":"Donut chart showing NeedIt requests Active this month by Priority","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":true,"dataPassthrough":null,"metrics":[{"dataSource":"aW5kaWNhdG9yMjhiZWQ0NGY4Mzk1OTIxMDU5NWZjYTk2ZmVhYWQzYzYxNzI5NTgwMDMxOTY2","id":"YVc1a2FXTmhkRzl5TWpoaVpXUTBOR1k0TXprMU9USXhNRFU1TldaallUazJabVZoWVdRell6WXhOekk1TlRnd01ETXhPVFkyMTcyOTU4MDAzMzIyNQ==","aggregateIndicator":"","frequency":20,"numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"aW5kaWNhdG9yMjhiZWQ0NGY4Mzk1OTIxMDU5NWZjYTk2ZmVhYWQzYzYxNzI5NTgwMDMxOTY2","groupByField":"7075c0b3d7000200b96d45a3ce6103ba","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"asc","trendBy":null,"showChange":true,"showChangePercentage":true,"showTarget":true,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":true,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"f3nza3yn","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":true,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"id":"refreshFrequency","value":null,"noDebounce":true,"propLabel":"Live refresh rate (seconds)"}</component_props>
+        <h>14</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 06:54:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>877808df8399d210595fca96feaad35a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_877808df8399d210595fca96feaad35a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 06:57:53</sys_updated_on>
+        <visualization/>
+        <w>23</w>
+        <widget_props/>
+        <x>25</x>
+        <y>15</y>
+    </par_dashboard_widget>
+</record_update>
