@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new 'Connection' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 14:06:36</sys_created_on>
+        <sys_id>a5edbc5f83ea1210595fca96feaad3ea</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_a5edbc5f83ea1210595fca96feaad3ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 14:06:49</sys_updated_on>
+        <table>sys_connection</table>
+        <test display_value="Test Connections copy">75dd389f83ea1210595fca96feaad391</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=a5edbc5f83ea1210595fca96feaad3ea"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 14:06:36</sys_created_on>
+        <sys_id>07edf0df83ea1210595fca96feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 14:06:36</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 14:06:36</sys_created_on>
+        <sys_id>4fedf0df83ea1210595fca96feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 14:06:36</sys_updated_on>
+        <value>sys_connection</value>
+        <variable display_value="Table">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 14:06:36</sys_created_on>
+        <sys_id>8bedf0df83ea1210595fca96feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 14:06:36</sys_updated_on>
+        <value>record</value>
+        <variable display_value="Record path">3a662f60a3023110571967d1361e6134</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 14:06:36</sys_created_on>
+        <sys_id>c7edf0df83ea1210595fca96feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 14:06:36</sys_updated_on>
+        <value/>
+        <variable display_value="View">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=a5edbc5f83ea1210595fca96feaad3ea"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>53b8e0a3eb899e50e483f459bad0cdb4</instance_id>
+        <instance_name>dev289378</instance_name>
+        <name>sys_atf_step_a5edbc5f83ea1210595fca96feaad3ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'Connection' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 14:06:36</sys_created_on><sys_id>a5edbc5f83ea1210595fca96feaad3ea</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_a5edbc5f83ea1210595fca96feaad3ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 14:06:49</sys_updated_on><table>sys_connection</table><test display_value="Test Connections copy">75dd389f83ea1210595fca96feaad391</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=a5edbc5f83ea1210595fca96feaad3ea"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 14:06:36</sys_created_on><sys_id>07edf0df83ea1210595fca96feaad308</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 14:06:36</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 14:06:36</sys_created_on><sys_id>4fedf0df83ea1210595fca96feaad308</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 14:06:36</sys_updated_on><value>sys_connection</value><variable display_value="Table">bb84ed825320220002c6435723dc3400</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 14:06:36</sys_created_on><sys_id>8bedf0df83ea1210595fca96feaad308</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 14:06:36</sys_updated_on><value>record</value><variable display_value="Record path">3a662f60a3023110571967d1361e6134</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a5edbc5f83ea1210595fca96feaad3ea</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 14:06:36</sys_created_on><sys_id>c7edf0df83ea1210595fca96feaad308</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 14:06:36</sys_updated_on><value/><variable display_value="View">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=a5edbc5f83ea1210595fca96feaad3ea"/></record_update>]]></payload>
+        <payload_hash>-2004396823</payload_hash>
+        <record_name>Open a New Form</record_name>
+        <reverted_from/>
+        <source>b2f293b183191210595fca96feaad376</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 14:06:49</sys_created_on>
+        <sys_id>02fdb4df83ea1210595fca96feaad3f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193f3d789a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 14:06:49</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>86fdb4dffdea12100ad2ce77b87718f6</update_guid>
+        <update_guid_history>86fdb4dffdea12100ad2ce77b87718f6:-2004396823,4afdb4dfc0ea12107ddc26186a7f52d9:2133936618,c6fdb4df52ea1210020e5b400fc6a3c4:1977302763,c7edf0dff9ea1210ac94b704a64ad50a:1820668908</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 14:07:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>43a1d89987cb4fb89ed4d43fa9801dc4</sys_id>
+        <sys_metadata>a5edbc5f83ea1210595fca96feaad3ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_a5edbc5f83ea1210595fca96feaad3ea</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_a5edbc5f83ea1210595fca96feaad3ea">02fdb4df83ea1210595fca96feaad3f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 14:07:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
